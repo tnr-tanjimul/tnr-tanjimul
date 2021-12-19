@@ -29,8 +29,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tnr-tanjimul&show_icons=true&locale=en" alt="Tanjimul Islam" /></p>
+<p>&nbsp;![Tanjimul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnr-tanjimul&count_private=true)
+</p>
 
-![Tanjimul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnr-tanjimul&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=tnr-tanjimul&color=green)
