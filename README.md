@@ -3,8 +3,7 @@
 - 📫 How to reach me **tanjimul500@gmail.com**  <br/>
 - 👀 I’m interested in **Web Application Development** <br/>
 - LinkedIn **https://www.linkedin.com/in/tnr-tanjimul/** <br/><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=tnr-tanjimul&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnr-tanjimul&count_private=true)](https://github.com/tnr-tanjimul/github-readme-stats)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -30,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tnr-tanjimul&show_icons=true&locale=en" alt="Tanjimul Islam" /></p>
 
-![](https://komarev.com/ghpvc/?username=tnr-tanjimul&color=green)
+![](https://komarev.com/ghpvc/?username=tnr-tanjimul&color=green&count_private=true)
