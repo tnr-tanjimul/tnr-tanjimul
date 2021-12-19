@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Web Application Development** <br/>
 - LinkedIn **https://www.linkedin.com/in/tnr-tanjimul/** <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnr-tanjimul?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnr-tanjimul)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tnr-tanjimul&show_icons=true&locale=en?count_private=true" alt="Tanjimul Islam" /></p>
 
-![](https://komarev.com/ghpvc/?username=tnr-tanjimul&color=green&count_private=true)
+![](https://komarev.com/ghpvc/?username=tnr-tanjimul&color=green)
