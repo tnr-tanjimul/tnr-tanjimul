@@ -4,12 +4,7 @@
 - 👀 I’m interested in **Web Application Development** <br/>
 - LinkedIn **https://www.linkedin.com/in/tnr-tanjimul/** <br/><br/>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnr-tanjimul&count_private=true)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnr-tanjimul)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=tnr-tanjimul&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
