@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Tanjimul Islam</h1> 
-- 📫 How to reach me **tanjimul500@gmail.com**  <br/>
-- 👀 I’m interested in **Web Application Development** <br/>
-- LinkedIn **https://www.linkedin.com/in/tnr-tanjimul/** <br/><br/>
+- 📫 How to reach me <b>tanjimul500@gmail.com</b>  <br/>
+- 👀 I’m interested in <b>Web Application Development</b> <br/>
+- LinkedIn <b>https://www.linkedin.com/in/tnr-tanjimul/</b> <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnr-tanjimul)](https://github.com/anuraghazra/github-readme-stats)
 
